@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Pag1() {
+function Weekly() {
   return (
     <div>
-      
+      Weekly
     </div>
   )
 }
 
-export default Pag1
+export default Weekly
